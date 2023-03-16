@@ -1,0 +1,5 @@
+.terraform*
+__pycache__/
+model.*
+notes.md
+plan.out
